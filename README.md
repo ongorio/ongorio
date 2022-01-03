@@ -1,7 +1,7 @@
 # Hello, Habitant of the world
 
 
-I'm **Isais Alvarez Vargas** student of computer science of 3rd semester in Tecnologico de Monterrey :ram:
+I'm **Isaias Alvarez Vargas** student of computer science of 3rd semester in Tecnologico de Monterrey :ram:
 
 ### :notebook::pencil2: About Me 
 * :coffee: Coffee Lover
